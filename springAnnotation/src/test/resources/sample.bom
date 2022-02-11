@@ -1,0 +1,12 @@
+brooklyn.catalog:
+  id: com.Annotation.springAnnotation.MySampleInCatalog
+  version: "1.0"
+  itemType: template
+  description: My Sample
+  displayName: MySample
+  iconUrl: classpath:///sample-icon.png
+  libraries:
+  - file:///Path/to/archetype/sample/target/springAnnotation-0.0.1-SNAPSHOT.jar
+  item:
+    services:
+    - type: com.Annotation.springAnnotation.MySample

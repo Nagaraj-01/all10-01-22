@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Built-By: Nagarajk
+Build-Jdk: 17.0.1
+Specification-Title: Sample Apache Brooklyn Project com.Annotation:sprin
+ gAnnotation v0.0.1-SNAPSHOT
+Specification-Version: 0.0.1-SNAPSHOT
+Specification-Vendor: The Apache Software Foundation
+Implementation-Title: Sample Apache Brooklyn Project com.Annotation:spri
+ ngAnnotation v0.0.1-SNAPSHOT
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.Annotation
+Implementation-Vendor: The Apache Software Foundation
+Implementation-URL: https://brooklyn.apache.org/brooklyn-downstream-pare
+ nt/springAnnotation/
+Created-By: Maven Integration for Eclipse
+
